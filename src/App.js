@@ -2,6 +2,7 @@ import React from 'react'
 
 class App extends React.Component {
   render() {
+    debugger
     return (
       <div>
         <h1>Hello World - from webpack-dev-server with</h1>
